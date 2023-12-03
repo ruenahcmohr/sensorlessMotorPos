@@ -10,6 +10,8 @@ garbage if the commutators change as your trying to measure (big noise burst)
 
 All in all, it worked WAY better than I thought it would!
 
+![video](https://youtu.be/iJDwuBfbN4A)
+
 Build photo and schematics:
 
 ![image](p1220738.jpg)
